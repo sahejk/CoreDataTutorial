@@ -1,0 +1,25 @@
+PODS:
+  - JSONModel (1.0.2)
+  - Quick (0.2.2)
+  - Snap (0.0.4)
+
+DEPENDENCIES:
+  - JSONModel
+  - Quick
+  - Snap (from `https://github.com/Masonry/Snap.git`)
+
+EXTERNAL SOURCES:
+  Snap:
+    :git: https://github.com/Masonry/Snap.git
+
+CHECKOUT OPTIONS:
+  Snap:
+    :commit: 81be19bc36b8259c2363e0dd827a5ede9f2b6524
+    :git: https://github.com/Masonry/Snap.git
+
+SPEC CHECKSUMS:
+  JSONModel: cbdef0fdff1cc70e913a860861d3072860efd3a1
+  Quick: 7b89ff625e72ef931c2a9ef2f25ac3a9d2457763
+  Snap: fa876ca140feedd100e034c69935f3e6766db3bb
+
+COCOAPODS: 0.36.0.beta.1
